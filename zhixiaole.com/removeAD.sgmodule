@@ -1,0 +1,15 @@
+#!name=Zhixiaole AD
+#!desc=移除智校乐的广告
+#!openUrl=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+#!author=lcandy2
+#!homepage=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+
+[General]
+urlrewrite = true
+mitm = true
+
+[URL Rewrite]
+^https://apppro\.zhixiaole\.net/v2/topic/getTopictList\?(.*&)?keywords=(?!fuckZhixiaole\b)[^&]* https://apppro.zhixiaole.net/v2/topic/getTopictList?$1keywords=fuckZhixiaole 307
+
+[MITM]
+hostname = %APPEND% apppro.zhixiaole.net
