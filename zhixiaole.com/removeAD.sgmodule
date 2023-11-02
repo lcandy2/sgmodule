@@ -1,8 +1,8 @@
 #!name=Zhixiaole AD
 #!desc=移除智校乐的广告
-#!openUrl=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+#!openUrl=https://github.com/lcandy2/sgmodule/blob/main/zhixiaole.com/removeAD.sgmodule
 #!author=lcandy2
-#!homepage=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+#!homepage=https://github.com/lcandy2/sgmodule/
 
 [General]
 urlrewrite = true

@@ -1,8 +1,8 @@
 #!name=Chuifengji Permit
 #!desc=绕过智校乐的吹风机时间限制
-#!openUrl=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+#!openUrl=https://github.com/lcandy2/sgmodule/blob/main/zhixiaole.com/chuifengjiPermit.sgmodule
 #!author=lcandy2
-#!homepage=https://github.com/lcandy2/sgmodule/zhixiaole.com/chuifengjiPermit.sgmodule
+#!homepage=https://github.com/lcandy2/sgmodule
 
 [General]
 urlrewrite = true
