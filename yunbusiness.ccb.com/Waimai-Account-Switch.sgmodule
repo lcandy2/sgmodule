@@ -1,0 +1,15 @@
+#!name=建行生活外卖平台账户切换
+#!desc=CCB Yun Business Waimai Account Switch
+#!openUrl=https://github.com/lcandy2/sgmodule/blob/main/yunbusiness.ccb.com/Waimai-Account-Switch.sgmodule
+#!author=lcandy2
+#!homepage=https://github.com/lcandy2/sgmodule
+
+[General]
+urlrewrite = true
+mitm = true
+
+[Map Local]
+^https:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A126$ data="https://raw.githubusercontent.com/lcandy2/sgmodule/297d233316f69327d0953fae3fd1949e1c320e62/yunbusiness.ccb.com/clp-service-A3341A126.json"
+
+[MITM]
+hostname = %APPEND% yunbusiness.ccb.com
