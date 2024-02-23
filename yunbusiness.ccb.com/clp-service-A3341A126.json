@@ -1,0 +1,88 @@
+{
+    "errMsg": "",
+    "data": {
+      "ONE_LINE_THREE_H300_AD_INFO": [
+      ],
+      "COUPON_LIST_AD_INFO": [
+      ],
+      "ONE_LINE_TWO_H200_AD_INFO": [
+      ],
+      "MONEY_TURN_IN_AD_INFO": [
+      ],
+      "NOVEL_AD_INFO": [
+      ],
+      "POPULAR_ACT_AD_INFO": [
+      ],
+      "HPBANNER_AD_INFO": [
+      ],
+      "SCENE_AD_INFO": [
+      ],
+      "TWO_FOUR_H200_AD_INFO": [
+      ],
+      "MONEY_TURN_OUT_AD_INFO": [
+      ],
+      "MOMEY_HOMEPAGE_AD_INFO": [
+      ],
+      "PAY_ADVERTISING_INFO": [
+        {
+          "LOGIN_REQUIRED": "1",
+          "REGION_CODE": "156",
+          "AD_SORT": "1",
+          "STOREY_U_ID": "20220528070000000052",
+          "STOREY_TITLE": "通栏广告",
+          "DISPLAY_POSITION": "10",
+          "STOREY_TYPE": "22",
+          "AD_REMAKE": "1",
+          "AD_ID": "20240205080000000187",
+          "PAGE_OPTION": "1",
+          "REFE_TYPE": "7",
+          "WHITE_FLAG": "0",
+          "AD_IMG": "https:\/\/res.yunbusiness.ccb.com\/service\/resource\/mng\/adMng\/2024\/202402\/20240205\/20240205080000000167\/2f111a0f-0bbf-48f4-a61e-659cb22dfd08.jpg",
+          "COVER_IMG": "https:\/\/res.yunbusiness.ccb.com\/service",
+          "END_DTM": "2024-02-29 23:55:59",
+          "AD_URL": "https:\/\/res.yunbusiness.ccb.com\/service\/resource\/mng\/quickTopicsPage\/2024\/202402\/20240207\/20240207090000000134\/4a01d7ff-2da5-47f6-a77a-fd96c2d3033a\/shuma_0207-1\/index.html",
+          "TYPE": "9",
+          "STOREY_NAME": "通栏广告",
+          "START_DTM": "2024-02-05 16:25:20",
+          "AD_NAME": "随付贷集合页2月分期甄选频道轮播"
+        },
+        {
+          "LOGIN_REQUIRED": "2",
+          "REGION_CODE": "156",
+          "PLATFORM_ID": "YS44000008000190",
+          "AD_SORT": "1",
+          "STOREY_U_ID": "20220528080000000002",
+          "STOREY_TITLE": "甄选商户",
+          "DISPLAY_POSITION": "10",
+          "STOREY_TYPE": "42",
+          "AD_REMAKE": "Apple",
+          "AD_ID": "20220528090000000227",
+          "PAGE_OPTION": "1",
+          "REFE_TYPE": "4",
+          "WHITE_FLAG": "0",
+          "AD_IMG": "https:\/\/res.yunbusiness.ccb.com\/service\/resource\/mng\/adMng\/2023\/202303\/20230331\/20220528090000000227\/06c13d84-9a6c-48d9-aa75-7a6a9a1838ae.png",
+          "COVER_IMG": "https:\/\/res.yunbusiness.ccb.com\/service",
+          "END_DTM": "2030-12-31 23:55:59",
+          "AD_URL": "https:\/\/h5.waimai.meituan.com\/login?force=true&back_url=https%3A%2F%2Fh5.waimai.meituan.com%2Fwaimai%2Fmindex%2Fmine",
+          "TYPE": "9",
+          "MERCHANT_DESC": "美团账号切换",
+          "START_DTM": "2022-05-28 01:42:50",
+          "STOREY_NAME": "甄选商户",
+          "MERCHANT_NAME": "美团外卖",
+          "AD_NAME": "美团外卖"
+        }
+      ],
+      "ONE_TWO_H200_AD_INFO": [
+      ],
+      "BUY_CAR_AD_INFO": [
+      ],
+      "MAIN_SUB_AD_INFO": [
+      ],
+      "POPULAR_ACT_TOP_AD_INFO": [
+      ],
+      "POSITION": "10",
+      "ONE_THREE_H300_AD_INFO": [
+      ]
+    },
+    "errCode": "0"
+  }
